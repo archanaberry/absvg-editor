@@ -25,8 +25,8 @@ This repository contains a single file: **index.html**. It is your gateway to a 
 
 ## Getting Started
 
-* **Step 1:** Clone or download this repository.
-* **Step 2:** Open the `index.html` file in your favorite browser.
+* **Step 1:** Clone or download this file "absvgeditor.gds.br" from this repository.
+* **Step 2:** Open the `index.html` file in your favorite browser or run in rtgds "./rtgds absvgeditor.gds.br <port> -html index.html -c <brotli for .gds.br>"
 * **Step 3:** Begin designing your dream characters.
 * **Step 4:** Export your design and share your art with the world.
 
